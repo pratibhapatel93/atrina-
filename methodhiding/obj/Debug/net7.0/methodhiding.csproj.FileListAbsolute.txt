@@ -1,0 +1,15 @@
+D:\test\methodhiding\bin\Debug\net7.0\methodhiding.exe
+D:\test\methodhiding\bin\Debug\net7.0\methodhiding.deps.json
+D:\test\methodhiding\bin\Debug\net7.0\methodhiding.runtimeconfig.json
+D:\test\methodhiding\bin\Debug\net7.0\methodhiding.dll
+D:\test\methodhiding\bin\Debug\net7.0\methodhiding.pdb
+D:\test\methodhiding\obj\Debug\net7.0\methodhiding.csproj.AssemblyReference.cache
+D:\test\methodhiding\obj\Debug\net7.0\methodhiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\methodhiding\obj\Debug\net7.0\methodhiding.AssemblyInfoInputs.cache
+D:\test\methodhiding\obj\Debug\net7.0\methodhiding.AssemblyInfo.cs
+D:\test\methodhiding\obj\Debug\net7.0\methodhiding.csproj.CoreCompileInputs.cache
+D:\test\methodhiding\obj\Debug\net7.0\methodhiding.dll
+D:\test\methodhiding\obj\Debug\net7.0\refint\methodhiding.dll
+D:\test\methodhiding\obj\Debug\net7.0\methodhiding.pdb
+D:\test\methodhiding\obj\Debug\net7.0\methodhiding.genruntimeconfig.cache
+D:\test\methodhiding\obj\Debug\net7.0\ref\methodhiding.dll

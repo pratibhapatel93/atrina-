@@ -1,0 +1,15 @@
+D:\test\inheritance\bin\Debug\net7.0\inheritance.exe
+D:\test\inheritance\bin\Debug\net7.0\inheritance.deps.json
+D:\test\inheritance\bin\Debug\net7.0\inheritance.runtimeconfig.json
+D:\test\inheritance\bin\Debug\net7.0\inheritance.dll
+D:\test\inheritance\bin\Debug\net7.0\inheritance.pdb
+D:\test\inheritance\obj\Debug\net7.0\inheritance.csproj.AssemblyReference.cache
+D:\test\inheritance\obj\Debug\net7.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfoInputs.cache
+D:\test\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfo.cs
+D:\test\inheritance\obj\Debug\net7.0\inheritance.csproj.CoreCompileInputs.cache
+D:\test\inheritance\obj\Debug\net7.0\inheritance.dll
+D:\test\inheritance\obj\Debug\net7.0\refint\inheritance.dll
+D:\test\inheritance\obj\Debug\net7.0\inheritance.pdb
+D:\test\inheritance\obj\Debug\net7.0\inheritance.genruntimeconfig.cache
+D:\test\inheritance\obj\Debug\net7.0\ref\inheritance.dll

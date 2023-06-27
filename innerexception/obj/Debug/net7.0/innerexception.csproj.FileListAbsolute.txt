@@ -1,0 +1,15 @@
+D:\test\innerexception\bin\Debug\net7.0\innerexception.exe
+D:\test\innerexception\bin\Debug\net7.0\innerexception.deps.json
+D:\test\innerexception\bin\Debug\net7.0\innerexception.runtimeconfig.json
+D:\test\innerexception\bin\Debug\net7.0\innerexception.dll
+D:\test\innerexception\bin\Debug\net7.0\innerexception.pdb
+D:\test\innerexception\obj\Debug\net7.0\innerexception.csproj.AssemblyReference.cache
+D:\test\innerexception\obj\Debug\net7.0\innerexception.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\innerexception\obj\Debug\net7.0\innerexception.AssemblyInfoInputs.cache
+D:\test\innerexception\obj\Debug\net7.0\innerexception.AssemblyInfo.cs
+D:\test\innerexception\obj\Debug\net7.0\innerexception.csproj.CoreCompileInputs.cache
+D:\test\innerexception\obj\Debug\net7.0\innerexception.dll
+D:\test\innerexception\obj\Debug\net7.0\refint\innerexception.dll
+D:\test\innerexception\obj\Debug\net7.0\innerexception.pdb
+D:\test\innerexception\obj\Debug\net7.0\innerexception.genruntimeconfig.cache
+D:\test\innerexception\obj\Debug\net7.0\ref\innerexception.dll
