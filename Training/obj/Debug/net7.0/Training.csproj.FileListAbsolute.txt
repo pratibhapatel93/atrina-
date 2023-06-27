@@ -1,0 +1,15 @@
+D:\Training\bin\Debug\net7.0\Training.exe
+D:\Training\bin\Debug\net7.0\Training.deps.json
+D:\Training\bin\Debug\net7.0\Training.runtimeconfig.json
+D:\Training\bin\Debug\net7.0\Training.dll
+D:\Training\bin\Debug\net7.0\Training.pdb
+D:\Training\obj\Debug\net7.0\Training.csproj.AssemblyReference.cache
+D:\Training\obj\Debug\net7.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\obj\Debug\net7.0\Training.AssemblyInfoInputs.cache
+D:\Training\obj\Debug\net7.0\Training.AssemblyInfo.cs
+D:\Training\obj\Debug\net7.0\Training.csproj.CoreCompileInputs.cache
+D:\Training\obj\Debug\net7.0\Training.dll
+D:\Training\obj\Debug\net7.0\refint\Training.dll
+D:\Training\obj\Debug\net7.0\Training.pdb
+D:\Training\obj\Debug\net7.0\Training.genruntimeconfig.cache
+D:\Training\obj\Debug\net7.0\ref\Training.dll

@@ -1,0 +1,15 @@
+D:\test\struct\obj\Debug\net7.0\struct.csproj.AssemblyReference.cache
+D:\test\struct\obj\Debug\net7.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\struct\obj\Debug\net7.0\struct.AssemblyInfoInputs.cache
+D:\test\struct\obj\Debug\net7.0\struct.AssemblyInfo.cs
+D:\test\struct\obj\Debug\net7.0\struct.csproj.CoreCompileInputs.cache
+D:\test\struct\bin\Debug\net7.0\struct.exe
+D:\test\struct\bin\Debug\net7.0\struct.deps.json
+D:\test\struct\bin\Debug\net7.0\struct.runtimeconfig.json
+D:\test\struct\bin\Debug\net7.0\struct.dll
+D:\test\struct\bin\Debug\net7.0\struct.pdb
+D:\test\struct\obj\Debug\net7.0\struct.dll
+D:\test\struct\obj\Debug\net7.0\refint\struct.dll
+D:\test\struct\obj\Debug\net7.0\struct.pdb
+D:\test\struct\obj\Debug\net7.0\struct.genruntimeconfig.cache
+D:\test\struct\obj\Debug\net7.0\ref\struct.dll

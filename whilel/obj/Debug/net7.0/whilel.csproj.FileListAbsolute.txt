@@ -1,0 +1,15 @@
+D:\test\whilel\bin\Debug\net7.0\whilel.exe
+D:\test\whilel\bin\Debug\net7.0\whilel.deps.json
+D:\test\whilel\bin\Debug\net7.0\whilel.runtimeconfig.json
+D:\test\whilel\bin\Debug\net7.0\whilel.dll
+D:\test\whilel\bin\Debug\net7.0\whilel.pdb
+D:\test\whilel\obj\Debug\net7.0\whilel.csproj.AssemblyReference.cache
+D:\test\whilel\obj\Debug\net7.0\whilel.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\whilel\obj\Debug\net7.0\whilel.AssemblyInfoInputs.cache
+D:\test\whilel\obj\Debug\net7.0\whilel.AssemblyInfo.cs
+D:\test\whilel\obj\Debug\net7.0\whilel.csproj.CoreCompileInputs.cache
+D:\test\whilel\obj\Debug\net7.0\whilel.dll
+D:\test\whilel\obj\Debug\net7.0\refint\whilel.dll
+D:\test\whilel\obj\Debug\net7.0\whilel.pdb
+D:\test\whilel\obj\Debug\net7.0\whilel.genruntimeconfig.cache
+D:\test\whilel\obj\Debug\net7.0\ref\whilel.dll
