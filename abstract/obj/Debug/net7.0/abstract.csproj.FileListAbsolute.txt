@@ -1,0 +1,15 @@
+D:\test\abstract\bin\Debug\net7.0\abstract.exe
+D:\test\abstract\bin\Debug\net7.0\abstract.deps.json
+D:\test\abstract\bin\Debug\net7.0\abstract.runtimeconfig.json
+D:\test\abstract\bin\Debug\net7.0\abstract.dll
+D:\test\abstract\bin\Debug\net7.0\abstract.pdb
+D:\test\abstract\obj\Debug\net7.0\abstract.csproj.AssemblyReference.cache
+D:\test\abstract\obj\Debug\net7.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\abstract\obj\Debug\net7.0\abstract.AssemblyInfoInputs.cache
+D:\test\abstract\obj\Debug\net7.0\abstract.AssemblyInfo.cs
+D:\test\abstract\obj\Debug\net7.0\abstract.csproj.CoreCompileInputs.cache
+D:\test\abstract\obj\Debug\net7.0\abstract.dll
+D:\test\abstract\obj\Debug\net7.0\refint\abstract.dll
+D:\test\abstract\obj\Debug\net7.0\abstract.pdb
+D:\test\abstract\obj\Debug\net7.0\abstract.genruntimeconfig.cache
+D:\test\abstract\obj\Debug\net7.0\ref\abstract.dll
