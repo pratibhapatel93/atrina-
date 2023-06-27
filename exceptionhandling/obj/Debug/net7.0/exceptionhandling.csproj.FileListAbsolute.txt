@@ -1,0 +1,15 @@
+D:\test\exceptionhandling\obj\Debug\net7.0\exceptionhandling.csproj.AssemblyReference.cache
+D:\test\exceptionhandling\obj\Debug\net7.0\exceptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\exceptionhandling\obj\Debug\net7.0\exceptionhandling.AssemblyInfoInputs.cache
+D:\test\exceptionhandling\obj\Debug\net7.0\exceptionhandling.AssemblyInfo.cs
+D:\test\exceptionhandling\obj\Debug\net7.0\exceptionhandling.csproj.CoreCompileInputs.cache
+D:\test\exceptionhandling\bin\Debug\net7.0\exceptionhandling.exe
+D:\test\exceptionhandling\bin\Debug\net7.0\exceptionhandling.deps.json
+D:\test\exceptionhandling\bin\Debug\net7.0\exceptionhandling.runtimeconfig.json
+D:\test\exceptionhandling\bin\Debug\net7.0\exceptionhandling.dll
+D:\test\exceptionhandling\bin\Debug\net7.0\exceptionhandling.pdb
+D:\test\exceptionhandling\obj\Debug\net7.0\exceptionhandling.dll
+D:\test\exceptionhandling\obj\Debug\net7.0\refint\exceptionhandling.dll
+D:\test\exceptionhandling\obj\Debug\net7.0\exceptionhandling.pdb
+D:\test\exceptionhandling\obj\Debug\net7.0\exceptionhandling.genruntimeconfig.cache
+D:\test\exceptionhandling\obj\Debug\net7.0\ref\exceptionhandling.dll

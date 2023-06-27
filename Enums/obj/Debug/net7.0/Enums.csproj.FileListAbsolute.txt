@@ -1,0 +1,15 @@
+D:\test\Enums\bin\Debug\net7.0\Enums.exe
+D:\test\Enums\bin\Debug\net7.0\Enums.deps.json
+D:\test\Enums\bin\Debug\net7.0\Enums.runtimeconfig.json
+D:\test\Enums\bin\Debug\net7.0\Enums.dll
+D:\test\Enums\bin\Debug\net7.0\Enums.pdb
+D:\test\Enums\obj\Debug\net7.0\Enums.csproj.AssemblyReference.cache
+D:\test\Enums\obj\Debug\net7.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\Enums\obj\Debug\net7.0\Enums.AssemblyInfoInputs.cache
+D:\test\Enums\obj\Debug\net7.0\Enums.AssemblyInfo.cs
+D:\test\Enums\obj\Debug\net7.0\Enums.csproj.CoreCompileInputs.cache
+D:\test\Enums\obj\Debug\net7.0\Enums.dll
+D:\test\Enums\obj\Debug\net7.0\refint\Enums.dll
+D:\test\Enums\obj\Debug\net7.0\Enums.pdb
+D:\test\Enums\obj\Debug\net7.0\Enums.genruntimeconfig.cache
+D:\test\Enums\obj\Debug\net7.0\ref\Enums.dll

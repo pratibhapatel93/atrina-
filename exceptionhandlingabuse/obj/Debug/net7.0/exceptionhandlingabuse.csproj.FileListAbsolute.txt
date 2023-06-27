@@ -1,0 +1,15 @@
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\exceptionhandlingabuse.csproj.AssemblyReference.cache
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\exceptionhandlingabuse.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\exceptionhandlingabuse.AssemblyInfoInputs.cache
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\exceptionhandlingabuse.AssemblyInfo.cs
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\exceptionhandlingabuse.csproj.CoreCompileInputs.cache
+D:\test\exceptionhandlingabuse\bin\Debug\net7.0\exceptionhandlingabuse.exe
+D:\test\exceptionhandlingabuse\bin\Debug\net7.0\exceptionhandlingabuse.deps.json
+D:\test\exceptionhandlingabuse\bin\Debug\net7.0\exceptionhandlingabuse.runtimeconfig.json
+D:\test\exceptionhandlingabuse\bin\Debug\net7.0\exceptionhandlingabuse.dll
+D:\test\exceptionhandlingabuse\bin\Debug\net7.0\exceptionhandlingabuse.pdb
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\exceptionhandlingabuse.dll
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\refint\exceptionhandlingabuse.dll
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\exceptionhandlingabuse.pdb
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\exceptionhandlingabuse.genruntimeconfig.cache
+D:\test\exceptionhandlingabuse\obj\Debug\net7.0\ref\exceptionhandlingabuse.dll
