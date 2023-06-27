@@ -1,0 +1,15 @@
+D:\test\staticclass\bin\Debug\net7.0\staticclass.exe
+D:\test\staticclass\bin\Debug\net7.0\staticclass.deps.json
+D:\test\staticclass\bin\Debug\net7.0\staticclass.runtimeconfig.json
+D:\test\staticclass\bin\Debug\net7.0\staticclass.dll
+D:\test\staticclass\bin\Debug\net7.0\staticclass.pdb
+D:\test\staticclass\obj\Debug\net7.0\staticclass.csproj.AssemblyReference.cache
+D:\test\staticclass\obj\Debug\net7.0\staticclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\staticclass\obj\Debug\net7.0\staticclass.AssemblyInfoInputs.cache
+D:\test\staticclass\obj\Debug\net7.0\staticclass.AssemblyInfo.cs
+D:\test\staticclass\obj\Debug\net7.0\staticclass.csproj.CoreCompileInputs.cache
+D:\test\staticclass\obj\Debug\net7.0\staticclass.dll
+D:\test\staticclass\obj\Debug\net7.0\refint\staticclass.dll
+D:\test\staticclass\obj\Debug\net7.0\staticclass.pdb
+D:\test\staticclass\obj\Debug\net7.0\staticclass.genruntimeconfig.cache
+D:\test\staticclass\obj\Debug\net7.0\ref\staticclass.dll
