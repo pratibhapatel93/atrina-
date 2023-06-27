@@ -1,0 +1,15 @@
+D:\test\optionalparam\bin\Debug\net7.0\optionalparam.exe
+D:\test\optionalparam\bin\Debug\net7.0\optionalparam.deps.json
+D:\test\optionalparam\bin\Debug\net7.0\optionalparam.runtimeconfig.json
+D:\test\optionalparam\bin\Debug\net7.0\optionalparam.dll
+D:\test\optionalparam\bin\Debug\net7.0\optionalparam.pdb
+D:\test\optionalparam\obj\Debug\net7.0\optionalparam.csproj.AssemblyReference.cache
+D:\test\optionalparam\obj\Debug\net7.0\optionalparam.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\optionalparam\obj\Debug\net7.0\optionalparam.AssemblyInfoInputs.cache
+D:\test\optionalparam\obj\Debug\net7.0\optionalparam.AssemblyInfo.cs
+D:\test\optionalparam\obj\Debug\net7.0\optionalparam.csproj.CoreCompileInputs.cache
+D:\test\optionalparam\obj\Debug\net7.0\optionalparam.dll
+D:\test\optionalparam\obj\Debug\net7.0\refint\optionalparam.dll
+D:\test\optionalparam\obj\Debug\net7.0\optionalparam.pdb
+D:\test\optionalparam\obj\Debug\net7.0\optionalparam.genruntimeconfig.cache
+D:\test\optionalparam\obj\Debug\net7.0\ref\optionalparam.dll

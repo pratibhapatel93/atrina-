@@ -1,0 +1,15 @@
+D:\test\methodparameterdemo\bin\Debug\net7.0\methodparameterdemo.exe
+D:\test\methodparameterdemo\bin\Debug\net7.0\methodparameterdemo.deps.json
+D:\test\methodparameterdemo\bin\Debug\net7.0\methodparameterdemo.runtimeconfig.json
+D:\test\methodparameterdemo\bin\Debug\net7.0\methodparameterdemo.dll
+D:\test\methodparameterdemo\bin\Debug\net7.0\methodparameterdemo.pdb
+D:\test\methodparameterdemo\obj\Debug\net7.0\methodparameterdemo.csproj.AssemblyReference.cache
+D:\test\methodparameterdemo\obj\Debug\net7.0\methodparameterdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\methodparameterdemo\obj\Debug\net7.0\methodparameterdemo.AssemblyInfoInputs.cache
+D:\test\methodparameterdemo\obj\Debug\net7.0\methodparameterdemo.AssemblyInfo.cs
+D:\test\methodparameterdemo\obj\Debug\net7.0\methodparameterdemo.csproj.CoreCompileInputs.cache
+D:\test\methodparameterdemo\obj\Debug\net7.0\methodparameterdemo.dll
+D:\test\methodparameterdemo\obj\Debug\net7.0\refint\methodparameterdemo.dll
+D:\test\methodparameterdemo\obj\Debug\net7.0\methodparameterdemo.pdb
+D:\test\methodparameterdemo\obj\Debug\net7.0\methodparameterdemo.genruntimeconfig.cache
+D:\test\methodparameterdemo\obj\Debug\net7.0\ref\methodparameterdemo.dll
