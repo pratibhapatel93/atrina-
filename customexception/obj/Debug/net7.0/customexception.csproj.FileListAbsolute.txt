@@ -1,0 +1,15 @@
+D:\test\customexception\bin\Debug\net7.0\customexception.exe
+D:\test\customexception\bin\Debug\net7.0\customexception.deps.json
+D:\test\customexception\bin\Debug\net7.0\customexception.runtimeconfig.json
+D:\test\customexception\bin\Debug\net7.0\customexception.dll
+D:\test\customexception\bin\Debug\net7.0\customexception.pdb
+D:\test\customexception\obj\Debug\net7.0\customexception.csproj.AssemblyReference.cache
+D:\test\customexception\obj\Debug\net7.0\customexception.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\customexception\obj\Debug\net7.0\customexception.AssemblyInfoInputs.cache
+D:\test\customexception\obj\Debug\net7.0\customexception.AssemblyInfo.cs
+D:\test\customexception\obj\Debug\net7.0\customexception.csproj.CoreCompileInputs.cache
+D:\test\customexception\obj\Debug\net7.0\customexception.dll
+D:\test\customexception\obj\Debug\net7.0\refint\customexception.dll
+D:\test\customexception\obj\Debug\net7.0\customexception.pdb
+D:\test\customexception\obj\Debug\net7.0\customexception.genruntimeconfig.cache
+D:\test\customexception\obj\Debug\net7.0\ref\customexception.dll
